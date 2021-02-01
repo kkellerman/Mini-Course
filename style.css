@@ -18,6 +18,11 @@ section {
     border-radius: 15px;
 }
 
+.avatar {
+    width: 100px;
+    border-radius: 50px;
+    
+}
 
 /* .circle {
     width: 500px;
